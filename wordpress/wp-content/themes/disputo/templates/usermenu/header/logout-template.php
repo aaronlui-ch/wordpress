@@ -1,1 +1,0 @@
-<a class="dropdown-item" href="<?php echo wp_logout_url( home_url() ); ?>"><?php esc_html_e( 'Logout', 'disputo' ); ?></a>

@@ -1,1 +1,0 @@
-<?php do_action('disputo_messages_link'); ?>

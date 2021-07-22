@@ -1,1 +1,0 @@
-<?php disputo_get_user_menu_items('high'); ?>

@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Activation"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Administrator - Keymaster"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "BuddyPress Activities"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Capabilities;"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Click Here To Read The Documentation"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Custom Role or Capability"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "DV Shortcode Whitelist Settings"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Editor - Moderator"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Enable"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Enable All Shortcodes"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Enter a shortcode name and hit the Enter key to select. You can add as many as you want."
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Enter the name of the role or capability."
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Other Users"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Please take the time to read the documentation. As many support related questions can be answered simply by re-reading the documentation."
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Save Settings"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Shortcode Whitelist"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "The name of the Role or the Capability"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "WordPress Comments"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "WordPress Roles and Capabilities"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "bbPress Replies"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "bbPress Topics"
+msgstr ""
+
+#. Text in function
+#: dv-shortcode-whitelist/dv-settings.php:1
+msgid "or"
+msgstr ""
